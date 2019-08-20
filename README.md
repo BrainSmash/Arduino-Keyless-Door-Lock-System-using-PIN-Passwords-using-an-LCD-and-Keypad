@@ -2,10 +2,15 @@
 Sketch that allows the End user to create a PIN Lock System in Arduino with an LCD and Keypad
 
 ********************************************************************************************
+
 ******************************* BRAIN SMASH ************************************************ 
+
 ************************* AUTHOR: DAEDALUS   8/2019 ****************************************
+
 **************** Visit us at: youtube.com/UC022nDDmdzDHkUT1hl_vHMg *************************
+
 ************************* Github.com/BrainSmash ********************************************
+
 You may use or modify this code for any and all of your projects whitout any restrictions
 If you use any fragment of this code we will be happy if you could send us a message ;)
 Brain Smash nor the Author are hold responsible for any misuse partially or complete of this code 
